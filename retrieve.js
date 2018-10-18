@@ -27,3 +27,6 @@ let geocodeAdress = (adress, callback) => {
 }
 
 module.exports.geocodeAdress = geocodeAdress;
+
+
+//b15d3bac721113ff67f56efcf47d9e3f
